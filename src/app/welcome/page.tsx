@@ -22,14 +22,14 @@ export default function Welcome() {
         height={100}
       />
 
-      <p className="animate-fade-in delay-500">Discover the <br/>
+      <p>Discover the <br/>
       Max Mara Icon Coat <br/>
       that bests fits your style</p>
 
       <Image
         src={coat}
         alt="Max Mara Icon Coat"
-        className="lg:max-h-80 animate-fade-in duration-1000"
+        className="lg:max-h-80"
         sizes="80vw"
         style={{
           width: "auto",

@@ -14,7 +14,7 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       animation: {
-        'fade-in': "fadeIn .5s ease-in-out",
+        'fade-in': "fadeIn .7s ease-in-out",
         'fade-out': "fadeOut .5s ease-in-out",
       },
 

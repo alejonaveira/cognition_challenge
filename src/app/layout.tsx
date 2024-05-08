@@ -17,7 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={font.className + " uppercase"}>
+      <body className={font.className + " uppercase animate-fade-in"}>
         <QuestionProvider>
           {children}
         </QuestionProvider>
