@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What words best \ndescribe you?",
+        "options": ["Playful & creative", "Classic & thoughtful", "Glamorous & confident"]
+    },
+    {
+        "question": "What is your\n café order?",
+        "options": ["matcha", "expresso", "tea"]
+    },
+    {
+        "question": "What is your\n go-to style?",
+        "options": ["cashmere", "denim", "leather"]
+    },
+    {
+        "question": "What is your favorite \nNYC neighborhood?",
+        "options": ["Williamsburg", "Chelsea", "Soho"]
+    },
+    {
+        "question": "What color palette\nBEST DESCRIBES YOUR STYLE?",
+        "options": ["bold & bright", "black & white", "neutrals"]
+    }
+]
